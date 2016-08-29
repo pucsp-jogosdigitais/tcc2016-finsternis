@@ -1,1 +1,9 @@
 /.project
+Finsternis/Library
+Finsternis/Library/*
+Finsternis/Temp
+Finsternis/Temp/*
+Finsternis/obj
+Finsternis/obj/*
+Finsternis/.vs/*
+Finsternis/.vs/
